@@ -1,0 +1,2 @@
+# rssagg
+golang rss aggregator
